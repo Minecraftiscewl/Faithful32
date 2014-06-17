@@ -23,7 +23,7 @@ This repository is a complete resource pack, you do not need to add this to vani
 
 1) Download the latest pack from this site. http://www.magnificentbastards.net/faithful/
 
-2) Run Minecraft, select "Options...", select "Texture Packs", select "Open texture pack folder".
+2) Run Minecraft, select "Options...", select "Resource Packs", select "Open resource pack folder".
 
 3) Drag and drop the zip file into the texture pack folder.
 
