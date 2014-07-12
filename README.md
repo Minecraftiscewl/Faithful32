@@ -7,8 +7,6 @@ Faithful32 - Modded
 
 Faithful with mods support: All textures done in Faithful32 style.
 
-The original Faithful 32x32 Pack can be found here: www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254
-
 The original pack is made by Vattic and a long list of helpers. Please look under the Credits section of his forum post I linked above.
 
 This repository is a complete resource pack, you do not need to add this to vanilla Faithful 32x.
