@@ -1,8 +1,10 @@
 All the work that needs completing. 
 ===========================
-Pull requests to expand this list are acceptable provided they are correct and include a link to the mod.
+Pull requests to expand this list are acceptable provided they are correct and include a link to the mod download.
 Any mods are welcome on this list, but mods in Feed The Beast packs are focused on.
 Mods are expected to be organized alphanumerically and have some indication of already completed work.
+
+**Do decoration and world gen blocks first when possible**
 
 Backpack			http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12629/ (Complete, needs restyling)
 
@@ -10,31 +12,35 @@ Chisel				http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/ (Minim
 
 ExtraBees			http://extrabees.accudio.com/ (Partial, most textures done)
 
-ExtraTiC			http://www.minecraftforum.net/topic/1985397-forge-extratic-tinkers-construct-metallurgy-add-on/ (Some progress, lots more to complete)
+ExtraTiC			http://www.minecraftforum.net/topic/1985397-forge-extratic-tinkers-construct-metallurgy-add-on/ (Some progress, a lot of recoloring existing stuff)
 
-ExtraTrees			http://extratrees.accudio.com/ (No progress)
+ExtraTrees			http://extratrees.accudio.com/ (Some progress)
 
-Forestry			http://forestry.sengir.net/wiki.new/doku.php (Partial, just needs some tree's, butterflies, some saplings)
+Forestry			http://forestry.sengir.net/wiki.new/doku.php (Needs some tree's, butterflies, some saplings)
 
-JABBA				http://www.minecraftforum.net/topic/2182366-16x-jabba-103-just-another-better-barrel-attempt/ (Mostly done)
+JABBA				http://www.minecraftforum.net/topic/2182366-16x-jabba-103-just-another-better-barrel-attempt/ (Not started)
 
-Mekanism			http://ci.aidancbrady.com/job/Mekanism/ (Build server link, website is not finished) (Some progress)
+Mekanism			http://ci.indiewikis.com:8080/job/Mekanism/ (Need some armor models)
 
 Metallurgy			http://www.minecraftforum.net/topic/744918-164forgesmp-metallurgy-putting-the-mine-back-in-minecraft/ (Most blocks done)
 
-Natura				http://www.minecraftforum.net/topic/1753754-16xnatura/ (Some progress, lots more to complete)
+Natura				http://www.minecraftforum.net/topic/1753754-16xnatura/ (Need crops and some trees.)
 
 OpenBlocks			http://www.minecraftforum.net/topic/1941514-16x-openblocks-122/ (Lots of progress, a bit more to complete)
 
 Power Converters		http://www.minecraftforum.net/topic/1695968-164-samrg472s-mods-powerconverters-alpha-builds/ (Some progress)
 
-Project Red			http://projectredwiki.com/wiki/Main_Page (Some progress, lots more to complete)
+Project Red			http://ci.indiewikis.com:8080/job/Project%20Red/ (Some progress, lots more to complete)
 
-Thermal Expansion		http://teamcofh.com/ (Partial, needs some liquids)
+Thermal Expansion		http://teamcofh.com/ (Needs liquids, pyrotheum dust)
 
-Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Partial, needs decoration blocks and liquids.
+Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Needs decoration blocks.)
 
 A list of quick projects if you would like to make a small contribution. These are not organized in any way, do whatever ones you want/can.
+
+Pyrotheum & Cryotheum Dust from Thermal Expansion
+
+Resonant Ender & Molten Glowstone from Thermal Expansion
 
 Flesh from Biomes O' Plenty
 
@@ -54,18 +60,9 @@ Drum from Extra Utilities
 
 Mob Chunks from DartCraft
 
-Ichorium Tools from Thaumic Tinker
-
 Plates from IC2
 
 Seedbags from IC2
 
-All fluids from Tinkers Construct
-
-Gregtech Plate Bending Machine GUI
-
-Gregtech Alloy Smelter GUI
-
-Gregtech Automatic Wiremill GUI
-
 Minefactory Reloaded Rednet Cable
+
