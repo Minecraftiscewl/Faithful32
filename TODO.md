@@ -42,6 +42,8 @@ Pyrotheum & Cryotheum Dust from Thermal Expansion
 
 Resonant Ender & Molten Glowstone from Thermal Expansion
 
+Tool animations from Redstone Arsenal
+
 Flesh from Biomes O' Plenty
 
 Mossy Skystone from Biomes O' Plenty
