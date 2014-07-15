@@ -36,7 +36,9 @@ Thermal Expansion		http://teamcofh.com/ (Needs liquids, pyrotheum dust)
 
 Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Needs decoration blocks.)
 
-A list of quick projects if you would like to make a small contribution. These are not organized in any way, do whatever ones you want/can.
+A list of quick projects if you would like to make a small contribution. These are not organized from most important to least.
+
+Border Stone from Extra Utilities
 
 Pyrotheum & Cryotheum Dust from Thermal Expansion
 
@@ -44,21 +46,21 @@ Resonant Ender & Molten Glowstone from Thermal Expansion
 
 Tool animations from Redstone Arsenal
 
+Minefactory Reloaded Rednet Cable
+
+Drawbridge from Tinkers Mechworks
+
+Drum from Extra Utilities
+
+Nether Berry Bushes from Natura
+
+Heat Glass from Natura
+
 Flesh from Biomes O' Plenty
 
 Mossy Skystone from Biomes O' Plenty
 
-Border Stone from Extra Utilities
-
-Heat Glass from Natura
-
-Nether Berry Bushes from Natura
-
-Drawbridge from Tinkers Mechworks
-
 Brownstone from Tinkers Construct
-
-Drum from Extra Utilities
 
 Mob Chunks from DartCraft
 
@@ -66,5 +68,5 @@ Plates from IC2
 
 Seedbags from IC2
 
-Minefactory Reloaded Rednet Cable
+
 
