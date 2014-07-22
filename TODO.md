@@ -38,13 +38,13 @@ Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-constr
 
 A list of quick projects if you would like to make a small contribution. These are not organized from most important to least.
 
+GUI's from Big Reactors
+
 Border Stone from Extra Utilities
 
 Pyrotheum & Cryotheum Dust from Thermal Expansion
 
 Resonant Ender & Molten Glowstone from Thermal Expansion
-
-Tool animations from Redstone Arsenal
 
 Minefactory Reloaded Rednet Cable
 
