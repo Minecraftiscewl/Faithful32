@@ -42,10 +42,6 @@ GUI's from Big Reactors
 
 Border Stone from Extra Utilities
 
-Pyrotheum & Cryotheum Dust from Thermal Expansion
-
-Resonant Ender & Molten Glowstone from Thermal Expansion
-
 Minefactory Reloaded Rednet Cable
 
 Drawbridge from Tinkers Mechworks
