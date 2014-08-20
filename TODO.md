@@ -36,7 +36,7 @@ Thermal Expansion		http://teamcofh.com/ (Needs liquids, pyrotheum dust)
 
 Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ (Needs decoration blocks.)
 
-A list of quick projects if you would like to make a small contribution. These are not organized from most important to least.
+A list of quick projects if you would like to make a small contribution. These are organized from most important to least.
 
 GUI's from Big Reactors
 
@@ -59,6 +59,8 @@ Mossy Skystone from Biomes O' Plenty
 Brownstone from Tinkers Construct
 
 Mob Chunks from DartCraft
+
+Furnaces/Macerators/Compressors from DartCraft
 
 Plates from IC2
 
