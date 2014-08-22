@@ -38,8 +38,6 @@ Tinkers Construct		http://www.minecraftforum.net/topic/1659892-164tinkers-constr
 
 A list of quick projects if you would like to make a small contribution. These are organized from most important to least.
 
-GUI's from Big Reactors
-
 Border Stone from Extra Utilities
 
 Minefactory Reloaded Rednet Cable
