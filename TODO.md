@@ -40,8 +40,6 @@ A list of quick projects if you would like to make a small contribution. These a
 
 Border Stone from Extra Utilities
 
-Minefactory Reloaded Rednet Cable
-
 Drawbridge from Tinkers Mechworks
 
 Drum from Extra Utilities
